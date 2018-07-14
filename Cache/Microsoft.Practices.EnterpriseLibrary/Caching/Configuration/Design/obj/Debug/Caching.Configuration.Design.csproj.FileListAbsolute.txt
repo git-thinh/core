@@ -1,0 +1,1 @@
+F:\_WS\webserver-69631\Microsoft Enterprise Library January 2006\Src\Caching\Configuration\Design\obj\Debug\Caching.Configuration.Design.csproj.GenerateResource.Cache
